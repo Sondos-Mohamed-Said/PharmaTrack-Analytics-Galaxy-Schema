@@ -1,0 +1,201 @@
+Customer_ID,Name,City,Gender,Age
+CUST_001,Brandon Brown,Dokki,M,19
+CUST_002,Kevin Wallace,Dokki,F,33
+CUST_003,Anne Lozano,Maadi,M,65
+CUST_004,Lisa Medina,Nasr City,M,55
+CUST_005,Chelsea Flores,Giza,M,19
+CUST_006,Donald Rivera,Nasr City,M,32
+CUST_007,Jacob Smith,Heliopolis,M,53
+CUST_008,Emily Mcdonald,Maadi,F,32
+CUST_009,Cynthia Meza,Giza,F,69
+CUST_010,Austin Kim,Nasr City,M,62
+CUST_011,Marcus Robinson,Giza,F,35
+CUST_012,Jessica Harris,Maadi,M,66
+CUST_013,Zachary Woodard,Zamalek,M,23
+CUST_014,Donald Case,Giza,M,40
+CUST_015,Stephen Hancock,Zamalek,F,69
+CUST_016,Brian Davis,Nasr City,F,52
+CUST_017,Megan Daniels,Nasr City,F,23
+CUST_018,Matthew Jensen,Heliopolis,F,71
+CUST_019,Cheyenne Mcconnell,Dokki,F,54
+CUST_020,Sabrina Kennedy,Maadi,M,20
+CUST_021,Teresa Grant,Dokki,M,67
+CUST_022,Deborah Clarke,Zamalek,M,72
+CUST_023,Marcus Garcia,Maadi,M,42
+CUST_024,Robert Chen,Zamalek,F,58
+CUST_025,Gregory Torres,Zamalek,M,41
+CUST_026,Amanda Cook,Zamalek,M,60
+CUST_027,Bryan Webb,Zamalek,M,56
+CUST_028,Christopher Bonilla,Dokki,M,52
+CUST_029,Jeremy Walker,Dokki,M,28
+CUST_030,Nicole Ramos,Giza,F,35
+CUST_031,Robert Thompson,Dokki,M,61
+CUST_032,Lawrence Jacobs PhD,Zamalek,M,32
+CUST_033,Amy Owen,Nasr City,F,43
+CUST_034,Jean Castillo,Zamalek,M,31
+CUST_035,Kevin Randall,Heliopolis,F,31
+CUST_036,Edward Gordon,Dokki,F,43
+CUST_037,Ruth Orr,Dokki,F,27
+CUST_038,Brett Smith,Zamalek,M,33
+CUST_039,Ryan Frost,Dokki,F,65
+CUST_040,Eric Johnson Jr.,Heliopolis,F,75
+CUST_041,Matthew Kelly,Heliopolis,F,41
+CUST_042,Donna Meyers,Maadi,M,50
+CUST_043,Patrick Rodriguez,Giza,M,66
+CUST_044,Lisa Olson,Nasr City,M,27
+CUST_045,Regina Price,Dokki,M,68
+CUST_046,Carol Gutierrez,Dokki,F,56
+CUST_047,Shelley Gomez,Nasr City,F,42
+CUST_048,Joshua Madden,Heliopolis,F,51
+CUST_049,Amy Richardson MD,Zamalek,M,61
+CUST_050,Amy Schneider,Dokki,M,61
+CUST_051,Deanna Burgess,Heliopolis,F,67
+CUST_052,Matthew Lloyd,Dokki,F,25
+CUST_053,Gary White,Zamalek,F,28
+CUST_054,Kimberly Rowland,Giza,M,64
+CUST_055,Casey Jackson,Dokki,F,50
+CUST_056,Ryan Shaw,Maadi,M,73
+CUST_057,Shane Curtis,Dokki,F,71
+CUST_058,Charles Griffin,Dokki,M,27
+CUST_059,Theodore Hamilton,Zamalek,M,52
+CUST_060,Erica Rice,Heliopolis,M,56
+CUST_061,Rebecca Sutton,Zamalek,F,19
+CUST_062,Linda Franklin DVM,Nasr City,F,74
+CUST_063,Alexandra Cunningham,Zamalek,M,21
+CUST_064,Mark Morgan,Maadi,M,23
+CUST_065,Sharon Compton,Dokki,F,70
+CUST_066,Alan Blankenship,Nasr City,M,26
+CUST_067,Jenny Wallace,Dokki,F,53
+CUST_068,Anna Robinson,Maadi,F,51
+CUST_069,Brenda Martinez,Heliopolis,F,31
+CUST_070,Dr. Kelly Guerra,Heliopolis,M,63
+CUST_071,Eric Leon,Zamalek,F,60
+CUST_072,Sarah Williams,Dokki,F,46
+CUST_073,Joel Oliver,Heliopolis,F,25
+CUST_074,Christian Bowen,Maadi,M,22
+CUST_075,Colin Perez,Zamalek,M,55
+CUST_076,Diana House,Heliopolis,M,55
+CUST_077,Brian Edwards,Maadi,M,22
+CUST_078,Lori Savage,Dokki,M,32
+CUST_079,Stephanie Chang,Nasr City,M,73
+CUST_080,Tammy Schneider,Zamalek,M,50
+CUST_081,Adam Delgado,Maadi,F,60
+CUST_082,Benjamin Miller,Giza,M,52
+CUST_083,Joseph Livingston,Maadi,F,33
+CUST_084,Mary Davis,Giza,F,30
+CUST_085,David Davis,Nasr City,M,60
+CUST_086,Dawn Bell,Giza,F,45
+CUST_087,Wayne Walter,Giza,F,73
+CUST_088,Kelly Pineda,Dokki,M,61
+CUST_089,Joel Garcia,Dokki,M,21
+CUST_090,Ross Brown,Giza,F,69
+CUST_091,Meghan Miller,Nasr City,M,30
+CUST_092,Jonathan Ramos,Maadi,F,26
+CUST_093,Russell Hansen,Giza,M,35
+CUST_094,Cynthia Kelly,Giza,M,73
+CUST_095,Kendra Myers,Nasr City,F,69
+CUST_096,Dean Banks,Heliopolis,M,21
+CUST_097,Katherine Valentine,Dokki,M,23
+CUST_098,Mrs. Cheryl Levy,Maadi,M,44
+CUST_099,Robert Davis,Giza,F,31
+CUST_100,Ryan Mann,Giza,M,28
+CUST_101,David Rangel,Giza,M,42
+CUST_102,Richard Howe,Zamalek,F,36
+CUST_103,Christopher Robertson,Giza,F,27
+CUST_104,Michael Riley,Maadi,F,31
+CUST_105,Kyle Kaiser,Nasr City,M,65
+CUST_106,Jacob Mosley,Zamalek,M,21
+CUST_107,Mrs. Bethany Holt MD,Heliopolis,F,50
+CUST_108,Michelle Hall,Heliopolis,M,21
+CUST_109,Katherine Perkins,Heliopolis,M,72
+CUST_110,Joshua Santos,Maadi,M,56
+CUST_111,Ashley Moore,Nasr City,M,43
+CUST_112,Alexander Casey,Nasr City,M,55
+CUST_113,William Hunter,Heliopolis,M,57
+CUST_114,Eric Pratt,Nasr City,F,60
+CUST_115,Leslie Ayala,Heliopolis,F,34
+CUST_116,Elizabeth Smith,Maadi,F,33
+CUST_117,Angela Thomas,Zamalek,F,26
+CUST_118,Matthew Patton,Dokki,F,47
+CUST_119,Dale Rodgers,Zamalek,M,18
+CUST_120,Juan Weaver,Giza,M,22
+CUST_121,Carla Cantrell,Heliopolis,M,50
+CUST_122,Eric Hicks,Zamalek,M,40
+CUST_123,Stephanie Kelley,Nasr City,M,41
+CUST_124,Jessica Castaneda,Zamalek,M,46
+CUST_125,Dennis Gonzales,Heliopolis,F,57
+CUST_126,Mckenzie May,Dokki,M,60
+CUST_127,Joseph Dorsey,Heliopolis,F,60
+CUST_128,Caitlin Roth,Nasr City,M,34
+CUST_129,Nicholas Smith,Nasr City,M,65
+CUST_130,William Maxwell,Heliopolis,M,35
+CUST_131,Deborah Wilson,Zamalek,M,63
+CUST_132,Molly Garza,Zamalek,M,61
+CUST_133,David Rivera,Dokki,F,50
+CUST_134,Crystal Snyder,Giza,F,75
+CUST_135,Courtney Jones DDS,Nasr City,M,58
+CUST_136,Andrew Williams,Giza,F,20
+CUST_137,Mrs. Victoria Henson,Nasr City,F,67
+CUST_138,Karen Gardner,Maadi,F,28
+CUST_139,Katelyn Bowman,Dokki,F,53
+CUST_140,Stephen Graves,Dokki,F,53
+CUST_141,Andrew Thomas,Nasr City,M,22
+CUST_142,Anne Jacobs,Dokki,M,52
+CUST_143,Mariah Ewing,Nasr City,F,55
+CUST_144,Anthony Davis,Heliopolis,M,45
+CUST_145,Jerry Cox PhD,Maadi,M,37
+CUST_146,Zachary Kelley,Zamalek,M,75
+CUST_147,Tracy Moore,Zamalek,M,61
+CUST_148,Nicolas Roberts,Maadi,M,40
+CUST_149,Wendy Rios,Heliopolis,F,57
+CUST_150,Cassandra Lynch,Dokki,M,33
+CUST_151,Caitlin Garner,Maadi,M,74
+CUST_152,Mary Jackson,Giza,M,29
+CUST_153,Ashlee Hodges,Dokki,F,68
+CUST_154,Matthew Petty,Giza,M,35
+CUST_155,Misty Gomez,Maadi,M,42
+CUST_156,Ruben Warren,Nasr City,F,32
+CUST_157,Jon Osborne,Maadi,F,40
+CUST_158,Brooke Winters,Zamalek,M,32
+CUST_159,Joshua Lee,Nasr City,M,43
+CUST_160,Adrian Salas,Zamalek,F,73
+CUST_161,Kathryn Russell,Nasr City,F,40
+CUST_162,Dr. Brian Frazier,Dokki,F,61
+CUST_163,Miss Nicole Smith,Heliopolis,F,19
+CUST_164,Rebecca Stevenson,Nasr City,F,29
+CUST_165,Robert Lee,Heliopolis,F,20
+CUST_166,Matthew West,Nasr City,F,40
+CUST_167,Kevin Thompson,Dokki,F,45
+CUST_168,Jennifer Ayala,Heliopolis,M,42
+CUST_169,Melissa Smith,Heliopolis,M,34
+CUST_170,Michael Walker,Nasr City,F,18
+CUST_171,Barbara Martinez,Heliopolis,M,41
+CUST_172,Kayla Dickerson,Giza,M,60
+CUST_173,Martin Thomas,Zamalek,F,60
+CUST_174,Christine Smith,Nasr City,F,50
+CUST_175,Patrick Thomas,Zamalek,F,38
+CUST_176,Steven Romero,Giza,F,53
+CUST_177,Denise Hill,Maadi,M,44
+CUST_178,Beverly Gutierrez,Dokki,F,61
+CUST_179,Nicole Buchanan,Dokki,M,57
+CUST_180,Brenda Dominguez,Heliopolis,F,43
+CUST_181,Sabrina Hughes,Heliopolis,M,37
+CUST_182,Shannon Robinson,Zamalek,M,45
+CUST_183,Jennifer Edwards,Heliopolis,F,47
+CUST_184,Mark Munoz,Giza,F,61
+CUST_185,Andrea Simpson,Maadi,F,68
+CUST_186,Robert Brown,Dokki,M,60
+CUST_187,Stephen Richardson,Nasr City,F,50
+CUST_188,Joshua Huffman,Dokki,F,23
+CUST_189,Sarah Mayer,Maadi,F,32
+CUST_190,Anthony Reyes,Maadi,M,19
+CUST_191,Scott Pierce,Nasr City,M,48
+CUST_192,Maria Olson,Heliopolis,M,47
+CUST_193,Dylan Jones,Giza,M,63
+CUST_194,Priscilla Mcdaniel,Dokki,F,49
+CUST_195,Lauren Perry,Giza,M,27
+CUST_196,Jennifer Crawford,Dokki,M,75
+CUST_197,Sophia Hanson,Nasr City,F,32
+CUST_198,Justin Ward,Maadi,F,21
+CUST_199,Thomas Adams,Heliopolis,M,72
+CUST_200,Donna Villa,Nasr City,F,26

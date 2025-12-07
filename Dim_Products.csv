@@ -1,0 +1,46 @@
+Name,Category,SubCategory,Brand,Price,Product_ID,Cost,Reorder_Level
+Panadol Extra,Medicine,Pain Killer,GSK,45,101,34,12
+Panadol Cold & Flu,Medicine,Cold & Flu,GSK,55,102,46,8
+Cataflam 50mg,Medicine,Pain Killer,Novartis,38,103,30,6
+Brufen 600mg,Medicine,Pain Killer,Abbott,42,104,33,18
+Voltaren Gel,Medicine,Topical Pain,GSK,65,105,47,10
+Congestal,Medicine,Cold & Flu,Sigma,32,106,23,10
+123 Tablets,Medicine,Cold & Flu,Hikma,28,107,19,14
+Augmentin 1g,Medicine,Antibiotic,GSK,110,108,91,8
+Hibiotic 1g,Medicine,Antibiotic,Amoun,95,109,75,10
+Curam 1g,Medicine,Antibiotic,Sandoz,105,110,84,17
+Zithromax,Medicine,Antibiotic,Pfizer,140,111,98,19
+Concor 5mg,Medicine,Hypertension,Merck,56,112,47,6
+Concor 10mg,Medicine,Hypertension,Merck,72,113,59,14
+Plavix 75mg,Medicine,Blood Thinner,Sanofi,220,114,161,16
+Crestor 10mg,Medicine,Cholesterol,AstraZeneca,180,115,130,6
+Lantus Insulin,Medicine,Diabetes,Sanofi,650,116,472,14
+Glucophage 1000,Medicine,Diabetes,Merck,48,117,35,18
+Eltroxin 50,Medicine,Thyroid,GSK,40,118,31,8
+Antinal,Medicine,Digestion,Amoun,25,119,19,18
+Nexium 40mg,Medicine,Digestion,AstraZeneca,90,120,66,19
+Gaviscon Syrup,Medicine,Digestion,Reckitt,85,121,67,19
+Vichy Normaderm Cleanser,Cosmetics,Skin Care,Vichy,450,122,324,12
+Vichy Mineral 89,Cosmetics,Skin Care,Vichy,620,123,461,18
+La Roche-Posay Effaclar,Cosmetics,Skin Care,La Roche,480,124,362,11
+La Roche-Posay Anthelios,Cosmetics,Sun Care,La Roche,550,125,422,16
+Cerave Foaming Cleanser,Cosmetics,Skin Care,Cerave,390,126,318,13
+Nivea Soft Cream,Cosmetics,Body Care,Nivea,95,127,69,18
+Dove Shampoo Repair,Cosmetics,Hair Care,Unilever,110,128,85,12
+Loreal Hyaluron Expert,Cosmetics,Skin Care,Loreal,220,129,173,9
+Garnier Micellar Water,Cosmetics,Skin Care,Garnier,145,130,102,17
+Omega 3 Plus,Medicine,Vitamins,Sedico,85,131,67,6
+Vitacid C,Medicine,Vitamins,Cid,20,132,14,19
+Centrum Adult,Medicine,Vitamins,Pfizer,450,133,319,9
+Pantogar,Medicine,Hair Care,Merz,135,134,113,12
+Kerovit,Medicine,Vitamins,Amoun,95,135,80,14
+Pampers Size 1,Baby Care,Diapers,Pampers,280,136,229,13
+Pampers Size 3,Baby Care,Diapers,Pampers,320,137,238,16
+Molfix Size 4,Baby Care,Diapers,Molfix,300,138,214,16
+Sanalac 1,Baby Care,Milk,Sanalac,160,139,128,16
+Hero Baby 2,Baby Care,Milk,Hero,175,140,134,17
+Johnson Shampoo 500ml,Baby Care,Bath,Johnson,95,141,68,13
+Sudocrem 125g,Baby Care,Skin Care,Sudocrem,210,142,162,17
+Accu-Chek Strips 50,Supplies,Diabetes Care,Roche,350,143,246,19
+Alcohol Spray 70%,Supplies,First Aid,Local,25,144,20,17
+Face Masks Box,Supplies,Protection,Local,50,145,36,5
