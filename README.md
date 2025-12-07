@@ -46,7 +46,7 @@ Since real-world sensitive data was not used, a Python script was developed to g
 ## 🗂️ Data Architecture: Galaxy Schema
 The model connects two different business processes—**Sales Transactions** and **Inventory Snapshots**—using shared dimensions.
 
-![Galaxy Schema Data Model](data_model.png)
+![Galaxy Schema Data Model](Data-Modeling.png)
 
 * **Fact Tables:**
     * `Fact_Sales`: Transactional level data (Time, Customer, Amount, Payment Method).
@@ -62,7 +62,7 @@ The model connects two different business processes—**Sales Transactions** and
 ### 1. Overview & Financials
 **Goal:** High-level executive view of P&L.
 
-![Financial Overview Dashboard](financial_overview.jpg)
+![Financial Overview Dashboard](financial_overview.png)
 
 * **KPIs:** Total Revenue ($411.3K), Profit, Cost, and Transactions.
 * **Time Analysis:** Hourly revenue trends to identify the "Evening Rush" (6 PM - 9 PM), a common pattern in Egyptian retail.
@@ -71,7 +71,7 @@ The model connects two different business processes—**Sales Transactions** and
 ### 2. Products & Staff Performance
 **Goal:** Optimize operations and workforce planning.
 
-![Staff & Product Dashboard](staff_performance.jpg)
+![Staff & Product Dashboard](staff_performance.png)
 
 * **Pareto Analysis:** A dynamic chart identifying the "Vital Few" products driving 80% of revenue.
 * **Staff Rankings:** Performance evaluation based on revenue generation.
@@ -80,7 +80,7 @@ The model connects two different business processes—**Sales Transactions** and
 ### 3. Inventory Management (Expiry Tracking)
 **Goal:** Reduce shrinkage and waste.
 
-![Inventory Dashboard](inventory_management.jpg)
+![Inventory Dashboard](inventory_management.png)
 
 * **Expiry Alerts:** Tracks specific `Batch_ID`s with conditional formatting to flag items approaching expiration.
 * **Financial Impact:** Calculates the exact monetary value of "Expired" vs. "Near Expiry" stock.
